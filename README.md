@@ -12,6 +12,7 @@
 ### Auto-organização 
 ### Colaboração
 ### Priorização baseada em valor 
+### Time-boxing
 
 ## Organização
 ## Justificativa de Negócio
