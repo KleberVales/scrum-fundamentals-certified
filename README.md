@@ -11,6 +11,7 @@
 ### Controle de Processos Empíricos 
 ### Auto-organização 
 ### Colaboração
+### Priorização baseada em valor 
 
 ## Organização
 ## Justificativa de Negócio
