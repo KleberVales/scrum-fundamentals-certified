@@ -7,3 +7,5 @@
 ## Qualidade 
 ## Mudança
 ## Risco
+## Iniciar
+## Planejar e estimar
