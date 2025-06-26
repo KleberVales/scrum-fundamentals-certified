@@ -9,6 +9,7 @@
 ### Introdução 
 ### Guia de Papéis 
 ### Controle de Processos Empíricos 
+### Auto-organização 
 
 ## Organização
 ## Justificativa de Negócio
