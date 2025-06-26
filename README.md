@@ -2,7 +2,7 @@
 
 ## Introdução 
 ### Visao Geral
-### Porque usar o Scrum
+### Por que usar o Scrum?
 ### Scrum vs Modelo tradicional
 ## Princípios
 ## Organização
