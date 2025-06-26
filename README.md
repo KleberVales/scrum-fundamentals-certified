@@ -7,6 +7,7 @@
 
 ## Princípios
 ### Introdução 
+### Guia de Papéis 
 
 ## Organização
 ## Justificativa de Negócio
