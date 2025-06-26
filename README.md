@@ -13,3 +13,4 @@
 ## Revisao e Retrospectiva
 ## Realese
 ## Scrum para Projetos Grandes
+## Escalar o Scrum para a Empresa
