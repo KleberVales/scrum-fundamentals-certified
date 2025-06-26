@@ -13,6 +13,7 @@
 ### Colaboração
 ### Priorização baseada em valor 
 ### Time-boxing
+### Desenvolvimento iterativo
 
 ## Organização
 ## Justificativa de Negócio
