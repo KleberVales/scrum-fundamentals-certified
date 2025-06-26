@@ -2,3 +2,5 @@
 
 ## Introdução 
 ## Princípios
+## Organização
+## Justificativa de negócio
