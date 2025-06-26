@@ -4,3 +4,6 @@
 ## Princípios
 ## Organização
 ## Justificativa de negócio
+## Qualidade 
+## Mudança
+## Risco
