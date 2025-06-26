@@ -11,3 +11,5 @@
 ## Planejar e estimar
 ## Implementar
 ## Revisao e Retrospectiva
+## Realese
+## Scrum para Projetos Grandes
