@@ -8,6 +8,7 @@
 ## Princípios
 ### Introdução 
 ### Guia de Papéis 
+### Controle de Processos Empíricos 
 
 ## Organização
 ## Justificativa de Negócio
