@@ -1,14 +1,17 @@
 # scrum-fundamentals-certified
 
 ## Introdução 
+### Visao Geral
+### Porque usar o Scrum
+### Scrum vs Modelo tradicional
 ## Princípios
 ## Organização
-## Justificativa de negócio
+## Justificativa de Negócio
 ## Qualidade 
 ## Mudança
 ## Risco
 ## Iniciar
-## Planejar e estimar
+## Planejar e Estimar
 ## Implementar
 ## Revisao e Retrospectiva
 ## Realese
