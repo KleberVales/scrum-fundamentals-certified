@@ -14,6 +14,7 @@
 ### Priorização baseada em valor 
 ### Time-boxing
 ### Desenvolvimento iterativo
+### Scrum x O Modelo Tradicional de Gerenciamento de Projetos
 
 ## Organização
 ## Justificativa de Negócio
