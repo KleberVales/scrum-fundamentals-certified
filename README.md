@@ -10,6 +10,7 @@
 ### Guia de Papéis 
 ### Controle de Processos Empíricos 
 ### Auto-organização 
+### Colaboração
 
 ## Organização
 ## Justificativa de Negócio
