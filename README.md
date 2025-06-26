@@ -4,7 +4,10 @@
 ### Visao Geral
 ### Por que usar o Scrum?
 ### Scrum vs Modelo tradicional
+
 ## Princípios
+### Introdução 
+
 ## Organização
 ## Justificativa de Negócio
 ## Qualidade 
