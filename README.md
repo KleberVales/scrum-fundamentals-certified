@@ -10,3 +10,4 @@
 ## Iniciar
 ## Planejar e estimar
 ## Implementar
+## Revisao e Retrospectiva
