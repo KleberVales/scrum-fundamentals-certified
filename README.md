@@ -13,7 +13,7 @@ A certificação é introdutória e aborda os conceitos essenciais do framework 
 Lá você encontrará:
 - ✅ Introdução
 - ✅ Principios
-- ✅ Aspectos do Scrum
+- ✅ Organização
 - ✅ Processos e fases
 - ✅ Glossário de termos
 - ✅ Dicas para a prova
