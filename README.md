@@ -17,7 +17,13 @@ Lá você encontrará:
 - ✅ Justificativa de negócio
 - ✅ Qualidade
 - ✅ Mudança
-
+- ✅ Risco
+- ✅ Inicio
+- ✅ Planejamento
+- ✅ Implementação
+- ✅ Retrospectiva e Revisão
+- ✅ Realese
+  
 ---
 
 ## 🚀 Sobre a certificação
