@@ -32,7 +32,7 @@ Lá você encontrará:
 - **Instituição**: SCRUMstudy
 - **Nível**: Iniciante / Fundamental
 - **Prova**: Online, gratuita, 40 questões
-- [Site oficial da certificação](https://www.scrumstudy.com/Scrum-Fundamentals-Certification)
+- [Site oficial da certificação](https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified)
 
 ---
 
