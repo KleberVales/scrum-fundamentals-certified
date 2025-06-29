@@ -1,6 +1,6 @@
 # 📘 Estudo para Certificação Scrum Fundamentals (SFC™) – SCRUMstudy
 
-Este repositório foi criado para organizar meus estudos em preparação para a certificação **Scrum Fundamentals Certified (SFC™)** oferecida pela **SCRUMstudy**.
+Este repositório foi criado para organizar os materiais de estudo que prepara para a certificação **Scrum Fundamentals Certified (SFC™)** oferecida pela **SCRUMstudy**.
 
 A certificação é introdutória e aborda os conceitos essenciais do framework Scrum, incluindo seus papéis, artefatos, eventos e princípios ágeis.
 
