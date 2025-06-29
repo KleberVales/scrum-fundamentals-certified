@@ -8,7 +8,7 @@ A certificação é introdutória e aborda os conceitos essenciais do framework 
 
 ## 📚 Acesse a Wiki
 
-> Os conteúdos estão estruturados na [**Wiki do Repositório**](https://github.com/SEU_USUARIO/NOME_REPOSITORIO/wiki), com resumos organizados por tópico.
+> Os conteúdos estão estruturados na [**Wiki do Repositório**](https://github.com/klebervales/scrum-fundamentals-certified/wiki), com resumos organizados por tópico.
 
 Lá você encontrará:
 - ✅ Conceitos fundamentais do Scrum
