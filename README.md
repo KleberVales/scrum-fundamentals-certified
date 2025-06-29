@@ -1,30 +1,42 @@
-# scrum-fundamentals-certified
+# 📘 Estudo para Certificação Scrum Fundamentals (SFC™) – SCRUMstudy
 
-## Introdução 
-### Visao Geral
-### Por que usar o Scrum?
-### Scrum vs Modelo tradicional
+Este repositório foi criado para organizar meus estudos em preparação para a certificação **Scrum Fundamentals Certified (SFC™)** oferecida pela **SCRUMstudy**.
 
-## Princípios
-### Introdução 
-### Guia de Papéis 
-### Controle de Processos Empíricos 
-### Auto-organização 
-### Colaboração
-### Priorização baseada em valor 
-### Time-boxing
-### Desenvolvimento iterativo
-### Scrum x O Modelo Tradicional de Gerenciamento de Projetos
+A certificação é introdutória e aborda os conceitos essenciais do framework Scrum, incluindo seus papéis, artefatos, eventos e princípios ágeis.
 
-## Organização
-## Justificativa de Negócio
-## Qualidade 
-## Mudança
-## Risco
-## Iniciar
-## Planejar e Estimar
-## Implementar
-## Revisao e Retrospectiva
-## Realese
-## Scrum para Projetos Grandes
-## Escalar o Scrum para a Empresa
+---
+
+## 📚 Acesse a Wiki
+
+> Os conteúdos estão estruturados na [**Wiki do Repositório**](https://github.com/SEU_USUARIO/NOME_REPOSITORIO/wiki), com resumos organizados por tópico.
+
+Lá você encontrará:
+- ✅ Conceitos fundamentais do Scrum
+- ✅ Princípios do Scrum
+- ✅ Aspectos do Scrum
+- ✅ Processos e fases
+- ✅ Glossário de termos
+- ✅ Dicas para a prova
+
+---
+
+## 🚀 Sobre a certificação
+
+- **Nome**: Scrum Fundamentals Certified (SFC™)
+- **Instituição**: SCRUMstudy
+- **Nível**: Iniciante / Fundamental
+- **Prova**: Online, gratuita, 40 questões
+- [Site oficial da certificação](https://www.scrumstudy.com/Scrum-Fundamentals-Certification)
+
+---
+
+## 📌 Objetivo
+
+Organizar meu aprendizado e compartilhar o conhecimento com quem também deseja iniciar no mundo Ágil por meio do **Scrum**.
+
+---
+
+## 💡 Contribuições
+
+Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugestões!
+
