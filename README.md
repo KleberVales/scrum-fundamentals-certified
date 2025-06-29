@@ -15,7 +15,7 @@ Lá você encontrará:
 - ✅ Principios
 - ✅ Organização
 - ✅ Justificativa de negócio
-- ✅ Glossário de termos
+- ✅ Qualidade
 - ✅ Dicas para a prova
 
 ---
