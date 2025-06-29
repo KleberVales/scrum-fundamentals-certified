@@ -16,7 +16,7 @@ Lá você encontrará:
 - ✅ Organização
 - ✅ Justificativa de negócio
 - ✅ Qualidade
-- ✅ Dicas para a prova
+- ✅ Mudança
 
 ---
 
