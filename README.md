@@ -14,7 +14,7 @@ Lá você encontrará:
 - ✅ Introdução
 - ✅ Principios
 - ✅ Organização
-- ✅ Processos e fases
+- ✅ Justificativa de negócio
 - ✅ Glossário de termos
 - ✅ Dicas para a prova
 
