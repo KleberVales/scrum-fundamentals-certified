@@ -50,3 +50,5 @@ Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugest
 
 Kleber Vales  
 Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
+
+Bacharel em Ciência da Computação\
