@@ -49,3 +49,4 @@ Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugest
 ## ✍️ Autor
 
 Kleber Vales  
+Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
