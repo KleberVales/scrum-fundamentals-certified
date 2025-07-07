@@ -46,5 +46,5 @@ Organizar meu aprendizado e compartilhar o conhecimento com quem também deseja 
 
 Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugestões!
 
-
+## ✍️ Autor
 
