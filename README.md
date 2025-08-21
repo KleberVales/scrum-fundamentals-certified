@@ -46,12 +46,14 @@ Organizar meu aprendizado e compartilhar o conhecimento com quem também deseja 
 
 Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugestões!
 
+--- 
+
 ## ✍️ Autor
 
-Kleber Vales  
+**Kleber Vales**  
 
-Back-end Software Engineer
-Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
+*Back-end Software Engineer*  
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
 
-Bacharel em Ciência da Computação\
-MBA em Desenvolvimento de Software Web 
+Bacharel em Ciência da Computação  
+MBA em Desenvolvimento de Software
