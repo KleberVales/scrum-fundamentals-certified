@@ -49,7 +49,9 @@ Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugest
 ## ✍️ Autor
 
 Kleber Vales  
-Desenvolvedor Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
+
+Back-end Software Engineer
+Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
 
 Bacharel em Ciência da Computação\
-MBA em Desenvolvimento de Software Web (Cursando)
+MBA em Desenvolvimento de Software Web 
