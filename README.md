@@ -56,4 +56,4 @@ Sinta-se à vontade para sugerir melhorias ou abrir issues com dúvidas e sugest
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
 
 Bacharel em Ciência da Computação  
-MBA em Desenvolvimento de Software
+MBA em Desenvolvimento de Software Web
