@@ -38,7 +38,7 @@ Lá você encontrará:
 
 ## 📌 Objetivo
 
-Organizar meu aprendizado e compartilhar o conhecimento com quem também deseja iniciar no mundo Ágil por meio do **Scrum**.
+Organizar meu aprendizado e compartilhar o conhecimento com quem também deseja aprofundar no mundo Ágil por meio do **Scrum**.
 
 ---
 
