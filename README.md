@@ -30,7 +30,7 @@ Lá você encontrará:
 
 - **Nome**: Scrum Fundamentals Certified (SFC™)
 - **Instituição**: SCRUMstudy
-- **Nível**: Iniciante / Fundamental
+- **Nível**: Intermediário
 - **Prova**: Online, gratuita, 40 questões
 - [Site oficial da certificação](https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified)
 
