@@ -8,6 +8,7 @@
 ### Colaboração
 ### Priorização Baseada em Valor
 ### Time-boxing
+### Desenvolvimento Iterativo
 
 ## Aspectos
 
