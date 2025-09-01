@@ -22,4 +22,5 @@
 ### Planejar
 ### Implementar
 ### Revisar
+### Release
 
