@@ -1,1 +1,3 @@
 # Scrum Fundamentals Certified
+
+## Introdução
