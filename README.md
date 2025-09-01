@@ -19,4 +19,5 @@
 
 ## Processos
 ### Iniciar
+### Planejar
 
