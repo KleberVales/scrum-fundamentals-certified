@@ -4,6 +4,7 @@
 
 ## Principios
 ### Controle de Processos Empíricos
+### Auto-organização
 
 ## Aspectos
 
