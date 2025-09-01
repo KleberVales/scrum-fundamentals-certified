@@ -7,6 +7,7 @@
 ### Auto-organização
 ### Colaboração
 ### Priorização Baseada em Valor
+### Time-boxing
 
 ## Aspectos
 
