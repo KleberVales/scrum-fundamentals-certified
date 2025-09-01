@@ -13,6 +13,7 @@
 ## Aspectos
 ### Organização
 ### Justificativa de negócios
+### Qualidade
 
 ## Processos
 
