@@ -44,6 +44,9 @@ Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
 
 🏆 Oracle Clould Infrastructure 2025 - DevOps Professional
 
+🏆 Oracle Cloud Infrastructure 2025 - Generative AI Professional
+
+
 
 
 
