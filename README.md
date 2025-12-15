@@ -40,6 +40,10 @@ Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
 
 🏆 Microsoft Technology Associate - Software Development Fundamentals
 
+🏆 Scrum Fundamentals Certified (SFC™)
+
+
+
 
 
 
