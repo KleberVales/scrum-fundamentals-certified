@@ -34,3 +34,10 @@ Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | 
 
 *Java & Spring Software Engineer*
 
+Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
+
+
+
+
+
+
