@@ -24,3 +24,9 @@
 ### Revisar
 ### Release
 
+---
+
+## ✉️ Contact
+
+Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) |
+
