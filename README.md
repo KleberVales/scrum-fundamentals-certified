@@ -1,4 +1,4 @@
-# Scrum Fundamentals Certified
+# Scrum Fundamentals Certified (SFC™)
 
 ## Principles
 
