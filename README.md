@@ -39,13 +39,6 @@
 
 ## ✉️ Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleber%20Vales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebervales)
-[![GitHub](https://img.shields.io/badge/GitHub-KleberVales-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KleberVales)
-
----
-
-## ✉️ Contact
-
 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
 
