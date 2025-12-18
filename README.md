@@ -1,14 +1,20 @@
 # Scrum Fundamentals Certified
 
-## Introdução
+## Principles
 
-## Principios
-### Controle de Processos Empíricos
-### Auto-organização
-### Colaboração
-### Priorização Baseada em Valor
-### Time-boxing
-### Desenvolvimento Iterativo
+| Nº | Pages |
+|----|--------|
+| 01 | [Empirical Process Control]() |
+| 02 | [Self-organization]() |
+| 03 | [Collaboration]() |
+| 04 | [Value-Based Prioritization]() |
+| 05 | [Time-boxing]() |
+| 06 | [Iterative Development]() |
+
+
+---
+
+
 
 ## Aspectos
 ### Organização
