@@ -15,7 +15,7 @@
 
 ### 3.1 Organization
 ### 3.2 Business rationale
-| 03 | [Quality]() |
+### 3.3 Quality
 | 04 | [Change]() |
 | 05 | [Risks]() |
 
