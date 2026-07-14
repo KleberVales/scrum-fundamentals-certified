@@ -9,7 +9,7 @@
 ### 2.3 Collaboration
 ### 2.4 Value-Based Prioritization
 ### 2.5 Time-boxing
-| 06 | [Iterative Development]() |
+### 2.6 Iterative Development
 
 ---
 
