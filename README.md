@@ -13,7 +13,6 @@
 
 ## 3. Aspects
 
-|----|--------|
 | 01 | [Organization]() |
 | 02 | [Business rationale]() |
 | 03 | [Quality]() |
