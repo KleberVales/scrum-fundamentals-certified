@@ -1,10 +1,10 @@
 # Scrum Fundamentals Certified (SFC™) - SBOK
 
-## Principles
+## 1. Introduction
 
-| Nº | Pages |
-|----|--------|
-| 01 | [Empirical Process Control]() |
+## 2. Principles
+
+### 2.1 Empirical Process Control
 | 02 | [Self-organization]() |
 | 03 | [Collaboration]() |
 | 04 | [Value-Based Prioritization]() |
