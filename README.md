@@ -13,7 +13,6 @@
 
 ## 3. Aspects
 
-| Nº | Pages |
 |----|--------|
 | 01 | [Organization]() |
 | 02 | [Business rationale]() |
