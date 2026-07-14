@@ -5,7 +5,7 @@
 ## 2. Principles
 
 ### 2.1 Empirical Process Control
-| 02 | [Self-organization]() |
+### 2.2 Self-organization
 | 03 | [Collaboration]() |
 | 04 | [Value-Based Prioritization]() |
 | 05 | [Time-boxing]() |
