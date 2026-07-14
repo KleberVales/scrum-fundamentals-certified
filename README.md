@@ -7,7 +7,7 @@
 ### 2.1 Empirical Process Control
 ### 2.2 Self-organization
 ### 2.3 Collaboration
-| 04 | [Value-Based Prioritization]() |
+### 2.4 Value-Based Prioritization
 | 05 | [Time-boxing]() |
 | 06 | [Iterative Development]() |
 
