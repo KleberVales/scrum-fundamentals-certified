@@ -14,7 +14,7 @@
 ## 3. Aspects
 
 ### 3.1 Organization
-| 02 | [Business rationale]() |
+### 3.2 Business rationale
 | 03 | [Quality]() |
 | 04 | [Change]() |
 | 05 | [Risks]() |
