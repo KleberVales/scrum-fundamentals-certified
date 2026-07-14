@@ -25,7 +25,7 @@
 ### 4.2 Plan
 ### 4.3 Implement
 ### 4.4 Review
-| 05 | [Release]() |
+### 4.5 Release
 
 ---
 
