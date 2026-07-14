@@ -21,7 +21,6 @@
 
 ## 4. Processes
 
-|----|--------|
 | 01 | [Start]() |
 | 02 | [Plan]() |
 | 03 | [Implement]() |
