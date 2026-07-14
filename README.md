@@ -11,9 +11,7 @@
 ### 2.5 Time-boxing
 ### 2.6 Iterative Development
 
----
-
-## Aspects
+## 3. Aspects
 
 | Nº | Pages |
 |----|--------|
